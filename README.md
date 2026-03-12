@@ -1,3 +1,8 @@
+ <p align="center">
+  <img src="protend.png" alt="The Pro-Tender Logo" width="600">
+</p>
+
+
 # 🍎 The Pro-Tender
 
 **macOS Compatibility Layer for Debian 13 (Trixie)**
